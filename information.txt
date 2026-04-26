@@ -1,0 +1,10 @@
+1_iam_setup.py
+IAM User Created: boto3-demo-user
+
+2_s3_setup.py
+✅ S3 Bucket Created Successfully!
+Bucket Name: boto3-demo-bucket-1777195642
+
+3_ec2_launch.py
+✅ EC2 Launched Successfully
+Instance ID: i-00e4d8a550da7cd3c
